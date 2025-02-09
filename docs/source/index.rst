@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+23Win - Trang Chủ 23WinNet.com Link Mới
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`23Win <https://23winnet.com/>`_ là cổng game giải trí hàng đầu, mang đến trải nghiệm đa dạng từ game bài, slot đến cá cược thể thao. Với giao diện thân thiện, bảo mật cao và dịch vụ chuyên nghiệp, 23WinNet.com là địa chỉ tin cậy cho người chơi, đảm bảo sự hài lòng và an toàn tuyệt đối.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ:
 
-.. note::
+Website: https://23winnet.com/
 
-   This project is under active development.
+Email: 23winnet.com@gmail.com
 
-Contents
---------
+Số điện thoại: 0988332211
 
-.. toctree::
+Địa chỉ: 45 Đ. Trần Duy Hưng, Trung Hoà, Thanh Xuân, Hà Nội, Việt Nam
 
-   usage
-   api
+Hashtags: #23winnet #23win
